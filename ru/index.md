@@ -6,7 +6,7 @@ title: Elixir School
 
 Базовые знания о языке Elixir, навеяно [Scala School](http://twitter.github.io/scala_school/) от Twitter.
 
-_Правки и сообщения о ошибках приветствуются!_
+_Правки и сообщения об ошибках приветствуются!_
 
 ## About Elixir
 
